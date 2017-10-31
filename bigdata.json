@@ -1,0 +1,42 @@
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"5A级蓝色经典","brand_id":"CP0002"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"拉丁之星","brand_id":"CP0003"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"星得斯","brand_id":"CP0004"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"王者脸面","brand_id":"CP0005"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"梦系列","brand_id":"CP0006"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"绵柔苏酒","brand_id":"CP0007"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"老字号","brand_id":"CP0008"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"珍宝坊","brand_id":"CP0009"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"洋河大曲青瓷","brand_id":"CP0010"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"洋河大曲蓝瓷","brand_id":"CP0011"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"青花瓷","brand_id":"CP0012"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"洋河醇浆","brand_id":"CP0013"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"柔和双沟","brand_id":"CP0014"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"双沟1732","brand_id":"CP0015"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"生态苏酒","brand_id":"CP0016"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"洋河青瓷（14版）","brand_id":"CP0017"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"洋河蓝瓷（14版）","brand_id":"CP0018"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"5A级蓝色经典梦之蓝","brand_id":"CP0019"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"蓝色经典团购版","brand_id":"CP0020"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"洋河大曲象耳","brand_id":"CP0021"}
+{ "index" : { "_index" : "test_index", "_type" : "test_type" } }
+{"create_time":1508983969000,"brand_name":"洋河大曲老天蓝","brand_id":"CP0022"}
